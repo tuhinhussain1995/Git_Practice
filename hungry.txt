@@ -5,3 +5,5 @@ Mhafuz is hungry too.
 But Kawsar is not hungry.
 
 I want to eat PIZZA.
+
+I want to eat Burger.
