@@ -9,3 +9,8 @@ I want to eat PIZZA.
 I want to eat Burger.
 
 Everyone want's to eat fries.
+
+$ git diifftool HEAD~2 HEAD~1
+$ git diifftool HEAD~2 HEAD~1
+$ git diifftool HEAD~2 HEAD~1
+$ git diifftool HEAD~2 HEAD~1
